@@ -9,3 +9,5 @@ showButton.addEventListener('click', () => {
 removeButton.addEventListener('click', () => {
     overlay.classList.remove('show-overlay');
 })
+
+//I feel very good when typing document.querySelector
